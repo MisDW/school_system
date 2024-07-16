@@ -4,6 +4,17 @@
   font-size: 15px;
 }
 
+
+/* MODAL DE INGRESO */
+
+.registration__tap__modal{
+  max-width: 500px;
+  background-color: var(--light);
+  box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.100);
+}
+
+/* ---- fin modal ingreso */
+
 .text-purple{
   color: #7C41F5;
   /* color: #28bb99; */
@@ -11,7 +22,6 @@
 
 .bg-purple{
   background-color: #7C41F5;
-  color: #eaeaea !important;
 }
 
 .bg-purple:hover{
